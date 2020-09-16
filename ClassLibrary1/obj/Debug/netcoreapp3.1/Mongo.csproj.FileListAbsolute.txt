@@ -1,0 +1,5 @@
+C:\Users\Gemirson.silva.FABRIMA\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp3.1\Mongo.deps.json
+C:\Users\Gemirson.silva.FABRIMA\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp3.1\Mongo.dll
+C:\Users\Gemirson.silva.FABRIMA\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp3.1\Mongo.csprojAssemblyReference.cache
+C:\Users\Gemirson.silva.FABRIMA\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp3.1\Mongo.AssemblyInfoInputs.cache
+C:\Users\Gemirson.silva.FABRIMA\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp3.1\Mongo.AssemblyInfo.cs
